@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "462045708744",
+    "firebase_url": "https://mobile-programming-e0916-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mobile-programming-e0916",
+    "storage_bucket": "mobile-programming-e0916.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462045708744:android:e4b57993417d1b469300fd",
+        "android_client_info": {
+          "package_name": "com.example.sahamuas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnHNcMZs93P-g-GCDep_yB-XhrGdpnSrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
